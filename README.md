@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on pretty much anything under the sun. Anything that can help me learn or improve is what I'm looking for.
 - 📫 How to reach me : Phone: 662-400-6853 Email: robbiebmccurdy@gmail.com
 
+Programs I'm currently learning : 
+
+Unity, Unreal Engine, Godot
+
 <!---
 robbiebmccurdy/robbiebmccurdy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning HTML/CSS, JavaScript, Java, C#, MySQL, and TypeScript.
 - 💞️ I’m looking to collaborate on pretty much anything under the sun. Anything that can help me learn or improve is what I'm looking for.
 - 📫 How to reach me : Phone: 662-400-6853 Email: robbiebmccurdy@gmail.com
+- Check out my games! https://roeii.itch.io
 
 Programs I'm currently learning : 
 

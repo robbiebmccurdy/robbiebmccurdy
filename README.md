@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robbiebmccurdy
 - 👀 I’m interested in frontend, backend, mobile, and game development. I'm also interested in web development and data analytics. 
-- 🌱 I’m currently learning HTML/CSS, JavaScript, Java, C, C#, C++, MySQL, Typescript, and Python.
+- 🌱 I’m currently learning Java, C, C#, C++, Python, MySQL, JavaScript, TypeScript, HTML/CSS, and React.
 - 💞️ I’m looking to collaborate on pretty much anything under the sun. Anything that can help me learn or improve is what I'm looking for.
 - 📫 You can reach me at my email, which is in the profile info section! (robbiebmccurdy@gmail.com)
 - Check out my games! https://roeii.itch.io

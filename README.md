@@ -4,6 +4,10 @@
 - 📫 You can reach me at my email, which is in the profile info section! (robbiebmccurdy@gmail.com)
 - Check out my portfolio! https://robbiemccurdy.dev
 
+
+### [Profile views counter](https://github.com/antonkomarev/github-profile-views-counter) - [antonkomarev](https://github.com/antonkomarev/)
+![](https://komarev.com/ghpvc/?username=haidang666&color=blue)
+
 <!---
 robbiebmccurdy/robbiebmccurdy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -5,8 +5,8 @@
 - Check out my portfolio! https://robbiemccurdy.dev
 
 
-### [Profile views counter](https://github.com/antonkomarev/github-profile-views-counter) - [antonkomarev](https://github.com/antonkomarev/)
-![](https://komarev.com/ghpvc/?username=haidang666&color=blue)
+### [Profile Views](https://github.com/antonkomarev/github-profile-views-counter) - [antonkomarev](https://github.com/antonkomarev/)
+![](https://komarev.com/ghpvc/?username=robbiebmccurdy&color=green)
 
 <!---
 robbiebmccurdy/robbiebmccurdy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

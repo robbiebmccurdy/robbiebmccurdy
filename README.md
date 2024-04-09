@@ -5,7 +5,7 @@
 - Check out my portfolio! https://robbiemccurdy.dev
 
 
-### [Profile Views](https://github.com/antonkomarev/github-profile-views-counter) - [antonkomarev](https://github.com/antonkomarev/)
+### Profile Views
 ![](https://komarev.com/ghpvc/?username=robbiebmccurdy&color=green)
 
 <!---

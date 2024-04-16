@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is **Robbie**
 #### I am a *Software Engineer*
-![I am a *Software Engineer*](https://studio.uxpincdn.com/studio/wp-content/uploads/2023/07/90s-website-min.png.webp)
 
 I am graduating in May of 2024 and I'll be staring full-time at ~~[REDACTED]~~. I love everything from gaming to f1 to basketball to even things like DIY.
 

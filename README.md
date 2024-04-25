@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is **Robbie**
-#### I am a *Software Engineer*
+*Software Engineer*
 
-I am graduating in May of 2024 and I'll be starting full-time at CoreLogic as a Software Engineer in late May.
+Full-time Software Engineer at CoreLogic
 Skills: Java / C# / JS / SQL / Python
 
 - 🔭 I’m currently working on this page. 

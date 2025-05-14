@@ -1,11 +1,10 @@
 ### Hi there 👋, my name is **Robbie**
 *Software Engineer*
 
-Full-time Software Engineer at CoreLogic
+Full-time Software Engineer at Cotality
 Skills: Java / C# / JS / SQL / Python
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning PostgreSQL 
 - 👯 I’m looking to collaborate on Games & Applications 
 - 📫 How to reach me: robbiebmccurdy@gmail.com 
 - 😄 Pronouns: He/Him 
